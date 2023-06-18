@@ -8,7 +8,7 @@ const initialSchema = createSchema({
     { id: "node-4", content: "Node 4", coordinates: [400, 200] },
   ],
   links: [
-    { input: "node-1", output: "node-2" },
+    { input: "node-1", output: "node-2", className: "dotted-link" },
     { input: "node-1", output: "node-3" },
     { input: "node-1", output: "node-4" },
   ],

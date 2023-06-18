@@ -1,0 +1,6 @@
+.bi.bi-diagram
+.bi-link-canvas-layer
+.bi-diagram-link.dotted-link
+.bi-link-path {
+    stroke-dasharray: 5;
+}
